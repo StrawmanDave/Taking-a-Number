@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.AssemblyInfo.cs
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.sourcelink.json
+/home/david/david-progamming-1400/Taking-a-Number/bin/Debug/net8.0/Taking-a-Number
+/home/david/david-progamming-1400/Taking-a-Number/bin/Debug/net8.0/Taking-a-Number.deps.json
+/home/david/david-progamming-1400/Taking-a-Number/bin/Debug/net8.0/Taking-a-Number.runtimeconfig.json
+/home/david/david-progamming-1400/Taking-a-Number/bin/Debug/net8.0/Taking-a-Number.dll
+/home/david/david-progamming-1400/Taking-a-Number/bin/Debug/net8.0/Taking-a-Number.pdb
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.dll
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/refint/Taking-a-Number.dll
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.pdb
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/Taking-a-Number.genruntimeconfig.cache
+/home/david/david-progamming-1400/Taking-a-Number/obj/Debug/net8.0/ref/Taking-a-Number.dll
